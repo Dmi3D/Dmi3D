@@ -18,12 +18,11 @@ A personal portfolio website to showcase my experience.
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>        
                                                                                                       
 ### 🧠 I'm want to learn more about...
-Backend technologies which include:
-* <img src="https://img.shields.io/badge/GraphQL-purple?logo=graphql&style=for-the-badge"/>
-* <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-* <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-* <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-* <img src="https://img.shields.io/badge/Amazon%20Web%20Services-orange?logo=amazon-aws&style=for-the-badge&logoColor=grey"/>
+<img src="https://img.shields.io/badge/GraphQL-purple?logo=graphql&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-orange?logo=amazon-aws&style=for-the-badge&logoColor=grey"/>
 
 ### ⚡ I worked at...
 SurveyMonkey as a Software Engineering Intern during the summer of 2020. More information can be found in my resume.
