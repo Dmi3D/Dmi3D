@@ -15,7 +15,9 @@ A personal portfolio website to showcase my experience.
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://camo.githubusercontent.com/4249e852f14e86cf7cd636b15c041c93d2f0572b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>        
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&style=for-the-badge&logoColor=white"/>
                                                                                                       
 ### 🧠 I'm want to learn more about...
 <img src="https://img.shields.io/badge/GraphQL-purple?logo=graphql&style=for-the-badge"/>
