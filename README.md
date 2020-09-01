@@ -1,5 +1,8 @@
 ![Header](https://github.com/Dmi3D/Dmi3D/blob/master/Banner.png "Banner")
 
+### Socials
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dmitriy-dranko/)
+
 ### 👨🏻‍💻 I'm currently studying... 
 Year 3 of 4 Bachelor of Science in Computer Science at University College Dublin.
 On track for an Upper Second Class Honours (2:1) or above.
@@ -7,6 +10,13 @@ On track for an Upper Second Class Honours (2:1) or above.
 ### 🔨 I'm currently working on...
 A personal portfolio website to showcase my experience.
 
+### I have experience with...
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>        
+                                                                                                      
 ### 🧠 I'm want to learn more about...
 Backend technologies which include:
 * GraphQL / REST API
