@@ -21,7 +21,7 @@ A personal portfolio website to showcase my experience.
   <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&style=for-the-badge&logoColor=white"/>
 </p>
                                                                                                       
-### 🧠 I'm want to learn more about...
+### 🧠 I want to learn more about...
 <p float="left">
   <img src="https://img.shields.io/badge/GraphQL-purple?logo=graphql&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
