@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Header](https://github.com/Dmi3D/Dmi3D/blob/master/Banner.png "Banner")
+
 <!--
 **Dmi3D/Dmi3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
