@@ -8,7 +8,7 @@ Year 3 of 4 Bachelor of Science in Computer Science at University College Dublin
 On track for an Upper Second Class Honours (2:1) or above.
 
 ### 🔨 I'm currently working on...
-A personal portfolio website to showcase my experience.
+A simple freelance project for a client using Bootstrap 5, AWS S3, and AWS Route 53.
 
 ### 🤖 I have experience with...
 <p float="left">
@@ -33,11 +33,14 @@ A personal portfolio website to showcase my experience.
 ### ⚡ I worked at...
 SurveyMonkey as a Software Engineering Intern during the summer of 2020. More information can be found in my resume.
 
+### ⚡ I will be working at at...
+HubnSpot as a Software Engineering Intern between April and August of 2021.
+
 ### 🏖️ My interests include...
 * Skateboarding
 * Beach
 * Travelling 
-* Investing (TSLA, NVDA, AAPL, AMD...)
+* Investing (TSLA, LMND, AAPL, AMD...)
 * Driving and cars in general
 * Food of all kinds
 
