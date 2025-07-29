@@ -9,8 +9,8 @@ I'm a full-stack engineer and ex-startup co-founder based in Dublin. My backgrou
 ---
 
 ### 🧩 What I’m working on  
-- Building a Java/React microservices project using Dropwizard, RabbitMQ, Docker, and ECS  
-- Exploring new AI tools for tradespeople based on what I learned at PropGen  
+- Just built a small coffee app to take orders, update pending orders, and track the average time to serve a coffee using NextJS, Dropwizard, RabbitMQ, OpenSearch, and Docker  
+- Exploring new AI tools for tradespeople based on what I learned at PropGen
 - Continuing to level up in backend systems and distributed architecture
 
 ---
